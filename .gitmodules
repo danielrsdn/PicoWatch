@@ -1,0 +1,3 @@
+[submodule "PicoWatchClient"]
+	path = PicoWatchClient
+	url = https://github.com/danielrsdn/PicoWatchClient.git
